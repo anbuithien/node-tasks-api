@@ -1,5 +1,5 @@
 {
-  "name": "ntask-api",
+  "name": "@avaptech/ntask-api",
   "version": "1.0.0",
   "description": "Task list API",
   "main": "index.js",
